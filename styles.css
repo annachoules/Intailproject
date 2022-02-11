@@ -50,6 +50,7 @@ section {
 
 #choose-list h4 {
     margin-bottom: 1rem;
+    margin-left: 2rem;
 }
 
 #tech {
@@ -68,7 +69,7 @@ figure img {
 }
 
 figcaption {
-    background-color: rgba (0, 0, 0, .5);
+    background-color: rgba(108, 109, 108, 0.2);
     padding: .5rem;
     position: relative;
     bottom: 1.5rem;
