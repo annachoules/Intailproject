@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    color: #FFFFE0;
+}
+
+body {
+    width: 960px;
+    margin: 0 auto;
+    background-color: #2F4F4F;
+}
+
+header {
+    text-align: center;
+}
+
+header img {
+    height: 90px;
+}
+
+section {
+    margin: 2rem 0;
+}
+
+#bio {
+    display: flex;
+    height: 200px;
+}
+
+#name-date {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+    font-size: larger;
+}
+
+#bio-choose {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: .5rem;
+}
+
+#choose-list {
+    padding: .85rem;  
+    background-color: #556B2F;
+    font-weight: 100;
+}
+
+#choose-list h4 {
+    margin-bottom: 1rem;
+}
+
+#tech {
+    display: flex;
+    justify-content: space-between;
+}
+
+figure {
+    width: 10rem;
+    text-align: center;
+    font-size: small;
+}
+
+figure img {
+    height: 10rem;
+}
+
+figcaption {
+    background-color: rgba (0, 0, 0, .5);
+    padding: .5rem;
+    position: relative;
+    bottom: 1.5rem;
+}
+
+#interest  h2 {
+    margin-bottom: 1rem;
+}
+
+.greyBox {
+    background-color: #555555;
+    font-weight: 100;
+    padding: 1rem;
+}
+
+.greyBox p {
+    margin-top: .75rem;
+}
+
+h2, h4 {
+    color: black;
+}
+
+#copyright {
+    color: black;
+    background-color:#556B2F;
+    text-align: center;
+}
+
+
